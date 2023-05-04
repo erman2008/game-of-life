@@ -1,0 +1,3 @@
+build : main.c
+	@echo compiling ...
+	gcc main.c -o game-of-life
